@@ -1,0 +1,7 @@
+main.py
+setup.py
+my_rpm_youtube.egg-info/PKG-INFO
+my_rpm_youtube.egg-info/SOURCES.txt
+my_rpm_youtube.egg-info/dependency_links.txt
+my_rpm_youtube.egg-info/requires.txt
+my_rpm_youtube.egg-info/top_level.txt
